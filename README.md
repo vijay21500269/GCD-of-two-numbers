@@ -32,7 +32,7 @@ def gcd_recursive(x,y):
 def gcd():
     n,m=int(input()),int(input())
     print("GCD of two numbers is:",gcd_recursive(n,m))
-    ~~~
+~~~
 ## Output:
 ![gcd of two number](https://github.com/vijay21500269/GCD-of-two-numbers/blob/main/Screenshot%20(2).png?raw=true)
 
